@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://pigg:123456@ds249269.mlab.com:49269/fast-pigg
